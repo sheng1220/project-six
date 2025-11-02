@@ -5,3 +5,6 @@
 .header .hh{
     color: pink;
 }
+.header .hh li{
+    color: blue;
+}
